@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sesortyp.github.io/sitemap.html.gz
+Sitemap: https://sesortyp.github.io/app/sitemap.html.gz
+Sitemap: https://sesortyp.github.io/assets/sitemap.html.gz
+Sitemap: https://sesortyp.github.io/css/sitemap.html.gz
+Sitemap: https://sesortyp.github.io/includes/sitemap.html.gz
+Sitemap: https://sesortyp.github.io/item/sitemap.html.gz
+Sitemap: https://sesortyp.github.io/src/sitemap.html.gz
